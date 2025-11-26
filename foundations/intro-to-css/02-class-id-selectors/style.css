@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+/* class selector . # */
+.classred {
+  background-color: #ffa7a7;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+/* you can select the same class in this case classred but anything added to it, like cooler can also be selected with .*/
+.cooler {
+  font-size: 24px;
+}
+/* id selector # */
+#bluetext {
+  color: blue;
+  font-size: 36px;
+}
+
+#green {
+  background-color: #80ff80;
+  font-weight: bold;
+}
