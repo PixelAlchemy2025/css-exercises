@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+/* This chains together the two classes, which leads to the woman being porpotioned with the width */
+.avatar.proportioned {
+  width: 300px;
+  height: auto;
+}
+
+/*this chains together the two classes, which leads to the man being distorted with the height being a fixed pixel and not scaling with the width "auto" */
+.avatar.distorted {
+  width: 200px;
+  height: 400px;
+}
+
+/*Also note the photos on the bottom are the original images and are not being touched, the row above is what we are editing. 
