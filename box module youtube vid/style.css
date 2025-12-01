@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+
+.box1 {
+    background-color: #EB5757;
+    border: 0px solid #9b51e0;
+}
+
+.box2 {
+    background-color: #2d9cdb;
+    border: 0px solid #27ae60;
+}
